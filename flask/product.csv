@@ -1,0 +1,61 @@
+Id,Name,Description,Price,PictureUrl,Brand,Type,QuantityInStock
+1,Maybelline New York Liquid Foundation Makeup,Matte foundation for oily skin.,799,/images/products/1.png,Maybelline New York,Cosmetics,50
+2,Urban Decay Naked Eyeshadow Palette,Highly pigmented eyeshadow palette.,5400,/images/products/2.jpeg,Urban Decay,Cosmetics,30
+3,MAC Ruby Woo Matte Lipstick,Classic red matte lipstick.,1800,/images/products/13.jpeg,MAC,Cosmetics,40
+4,NARS Orgasm Blush,Cult-favorite peachy pink blush.,2300,/images/products/19.jpeg,NARS,Cosmetics,35
+5,Too Faced Better Than Sex Mascara,Volumizing mascara for dramatic lashes.,2600,/images/products/20.jpeg,Too Faced,Cosmetics,60
+6,Huda Beauty Desert Dusk Eyeshadow Palette,Warm-toned eyeshadow palette with rich pigments.,6000,/images/products/21.jpeg,Huda Beauty,Cosmetics,25
+7,Benefit Hoola Matte Bronzer,Matte bronzer for a natural tan.,2400,/images/products/22.jpeg,Benefit,Cosmetics,55
+8,Anastasia Beverly Hills Dipbrow Pomade,Waterproof pomade for defined brows.,2800,/images/products/23.jpeg,Anastasia Beverly Hills,Cosmetics,45
+9,Charlotte Tilbury Magic Cream,Hydrating moisturizer for a radiant glow.,3500,/images/products/24.jpeg,Charlotte Tilbury,Cosmetics,40
+10,Clinique Even Better Foundation,Foundation that brightens and evens skin tone.,2800,/images/products/25.jpeg,Clinique,Cosmetics,30
+11,Tylenol Extra Strength Acetaminophen,Pain reliever and fever reducer.,899,/images/products/3.png,Tylenol,Medicine,100
+12,Benadryl Allergy Ultratabs,Antihistamine for allergy relief.,749,/images/products/4.png,Benadryl,Medicine,80
+13,Advil Ibuprofen Pain Reliever/Fever Reducer,Fast-acting pain relief tablets.,899,/images/products/14.png,Advil,Medicine,90
+14,Claritin Allergy Tablets,Non-drowsy allergy relief.,999,/images/products/26.png,Claritin,Medicine,70
+15,Mucinex Extended-Release Tablets,Relieves chest congestion.,1199,/images/products/27.png,Mucinex,Medicine,60
+16,Imodium AD Loperamide Tablets,Anti-diarrheal medication.,849,/images/products/28.png,Imodium,Medicine,80
+17,Pepto-Bismol Liquid,Relieves upset stomach nausea and diarrhea.,1299,/images/products/29.png,Pepto-Bismol,Medicine,50
+18,Excedrin Extra Strength,Pain relief for headaches and migraines.,949,/images/products/30.png,Excedrin,Medicine,75
+19,Tums Antacid Tablets,Relieves heartburn and indigestion.,699,/images/products/31.png,Tums,Medicine,90
+20,NyQuil Cold & Flu Relief,Nighttime relief for cold and flu symptoms.,1099,/images/products/32.png,NyQuil,Medicine,65
+21,Tiffany & Co. Diamond Stud Earrings,Classic diamond earrings in platinum.,100000,/images/products/5.jpeg,Tiffany & Co.,Jewelry,20
+22,Cartier Love Bracelet,Iconic love bracelet in 18k gold.,700000,/images/products/6.jpg,Cartier,Jewelry,15
+23,David Yurman Classics Bracelet with Gold,Iconic cable bracelet with gold accents.,150000,/images/products/15.jpeg,David Yurman,Jewelry,25
+24,Bvlgari Serpenti Watch,Elegant watch with a serpentine design.,120000,/images/products/33.jpg,Bvlgari,Jewelry,10
+25,Harry Winston Diamond Necklace,Luxurious diamond necklace in white gold.,500000,/images/products/34.jpg,Harry Winston,Jewelry,5
+26,Chopard Happy Diamonds Ring,Ring featuring floating diamonds.,80000,/images/products/35.jpg,Chopard,Jewelry,20
+27,Piaget Rose Necklace,Rose-shaped necklace with diamonds.,95000,/images/products/36.jpg,Piaget,Jewelry,15
+28,Van Cleef & Arpels Alhambra Bracelet,Iconic four-leaf clover bracelet.,60000,/images/products/37.jpg,Van Cleef & Arpels,Jewelry,30
+29,Rolex Submariner Watch,Classic dive watch with stainless steel.,80000,/images/products/38.jpg,Rolex,Jewelry,12
+30,Tiffany & Co. Atlas Ring,Modern ring with Roman numeral design.,15000,/images/products/39.jpg,Tiffany & Co.,Jewelry,40
+31,Pantene Pro-V Moisture Renewal Shampoo,Hydrating shampoo for dry hair.,599,/images/products/7.jpeg,Pantene,Shampoo,70
+32,Head & Shoulders Clean Dandruff Shampoo,Anti-dandruff shampoo for all hair types.,649,/images/products/8.jpeg,Head & Shoulders,Shampoo,60
+33,Herbal Essences Moisturizing Shampoo,Moisturizing shampoo with coconut essence.,499,/images/products/16.jpeg,Herbal Essences,Shampoo,80
+34,Dove Nutritive Solutions Shampoo,Shampoo that nourishes and repairs damaged hair.,450,/images/products/40.jpeg,Dove,Shampoo,65
+35,Tresemmé Keratin Smooth Shampoo,Shampoo that smooths and controls frizz.,550,/images/products/41.jpeg,Tresemmé,Shampoo,75
+36,L'Oréal Paris Elvive Extraordinary Oil Shampoo,Nourishing shampoo with six flower oils.,599,/images/products/42.jpeg,L'Oréal Paris,Shampoo,50
+37,Redken All Soft Shampoo,Shampoo for soft silky hair.,720,/images/products/43.jpeg,Redken,Shampoo,60
+38,Aveda Shampure Shampoo,Gentle everyday shampoo with a calming aroma.,900,/images/products/44.jpeg,Aveda,Shampoo,45
+39,Garnier Fructis Sleek & Shine Shampoo,Shampoo for sleek and frizz-free hair.,480,/images/products/45.jpeg,Garnier,Shampoo,70
+40,Paul Mitchell Tea Tree Special Shampoo,Invigorating shampoo with tea tree oil.,650,/images/products/46.jpeg,Paul Mitchell,Shampoo,55
+41,Dove Deep Moisture Nourishing Body Wash,Moisturizing body wash for soft skin.,799,/images/products/9.png,Dove,Shower Gel,40
+42,The Body Shop Satsuma Shower Gel,Refreshing shower gel with citrus scent.,1200,/images/products/10.jpeg,The Body Shop,Shower Gel,35
+43,NIVEA Men Active Clean Body Wash,Deep-cleansing body wash for men.,699,/images/products/17.png,NIVEA,Shower Gel,50
+44,Neutrogena Rainbath Refreshing Shower and Bath Gel,Cleansing gel with a fresh herbal scent.,850,/images/products/47.png,Neutrogena,Shower Gel,45
+45,L'Occitane Almond Shower Oil,Luxurious shower oil with almond oil.,1800,/images/products/48.png,L'Occitane,Shower Gel,30
+46,Bath & Body Works Eucalyptus Spearmint Body Wash,Body wash with invigorating eucalyptus and spearmint.,1200,/images/products/49.png,Bath & Body Works,Shower Gel,40
+47,Aveeno Daily Moisturizing Body Wash,Gentle body wash with nourishing oatmeal.,950,/images/products/50.png,Aveeno,Shower Gel,55
+48,Olay Ultra Moisture Body Wash,Body wash with shea butter for extra moisture.,700,/images/products/51.png,Olay,Shower Gel,60
+49,Simple Kind to Skin Moisturizing Shower Gel,Gentle and hydrating shower gel for sensitive skin.,600,/images/products/52.png,Simple,Shower Gel,65
+50,Kiehl's Creme de Corps Body Cleanser,Rich and creamy body cleanser.,1400,/images/products/53.png,Kiehl's,Shower Gel,30
+51,Chanel Coco Mademoiselle Eau de Parfum,Classic floral perfume with a modern twist.,10000,/images/products/11.jpeg,Chanel,Perfume,25
+52,Dolce & Gabbana Light Blue Eau de Toilette,Fresh and fruity fragrance for women.,8000,/images/products/12.jpg,Dolce & Gabbana,Perfume,30
+53,Yves Saint Laurent Black Opium Eau de Parfum,Addictive floral fragrance with coffee and vanilla.,12000,/images/products/18.jpeg,Yves Saint Laurent,Perfume,35
+54,Gucci Bloom Eau de Parfum,Floral perfume with notes of jasmine and tuberose.,9500,/images/products/54.jpg,Gucci,Perfume,30
+55,Dior Sauvage Eau de Toilette,Fresh and spicy fragrance with notes of bergamot and pepper.,8500,/images/products/55.jpg,Dior,Perfume,40
+56,Tom Ford Black Orchid Eau de Parfum,Luxurious and sensual fragrance with black truffle and ylang-ylang.,15000,/images/products/56.jpg,Tom Ford,Perfume,25
+57,Marc Jacobs Daisy Eau de Toilette,Light and fresh fragrance with notes of wild strawberry and violet.,7200,/images/products/57.jpg,Marc Jacobs,Perfume,50
+58,Burberry Her Eau de Parfum,Modern and fruity fragrance with notes of red berries and jasmine.,9500,/images/products/58.jpg,Burberry,Perfume,30
+59,Givenchy Gentlemen Only Eau de Toilette,Elegant and woody fragrance with notes of leather and patchouli.,7800,/images/products/59.jpg,Givenchy,Perfume,45
+60,Prada La Femme Eau de Parfum,Sophisticated fragrance with notes of frangipani and vanilla.,11500,/images/products/60.jpg,Prada,Perfume,20
